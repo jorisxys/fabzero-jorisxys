@@ -20,7 +20,7 @@ images:
 
 # Album Images
 
-[photo joris green tint]({{  site.baseurl  }}/assets/joris.jpeg)
+![photo joris green tint] ({{  site.baseurl  }}/assets/joris.jpg)
 
 
 {% include album.liquid data=page.images %}
