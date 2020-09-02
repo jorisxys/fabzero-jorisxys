@@ -20,4 +20,7 @@ images:
 
 # Album Images
 
+[photo joris green tint]({{  site.baseurl  }}/assets/joris.jpeg)
+
+
 {% include album.liquid data=page.images %}
