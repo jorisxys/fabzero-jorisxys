@@ -1,7 +1,8 @@
-# About and Progress 
+#01 make and use git(hub)
 
 Opdracht: Gebruik Git om verslag bij te houden van je vooruitgang.
-**Hello** 
+
+**Hello**  
 
 Here you can find information on who I am. Why I decided to join this proyect and what we did in week 1.
 
