@@ -8,6 +8,8 @@ sort: 1
 
 I am Yang Sheng Joris. Currently in high school. 
 
+![Daytrip in France]({{ site.baseurl }}/assets/foto.jpg):
+
 ## passions
 
 I don't really have a passion. The closest things that someone could see as a passion of mine are: Learning, Reading and making things.
