@@ -9,6 +9,7 @@ sort: 1
 I am Yang Sheng Joris. Currently in high school. 
 
 [link] (https://jorisxys.wordpress.com)
+
 ![Daytrip in France]({{ site.baseurl }}/assets/foto.jpg):
 
 <img src="foto.jpg"
