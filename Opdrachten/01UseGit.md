@@ -6,9 +6,18 @@ sort: 1
 
 **Hello**  
 
-Here you can find information on who I am. Why I decided to join this proyect and what we did in week 1.
+The beginning of week one was fairly technical. Here is what we learned !
 
-#
+*The history of git and github.
+*Who developed it.
+*How to setup a github account and how to edit it on and offline. 
+*A basic overview of the entire course.
+
+# our task this week 
+
+*make an about page
+*editing the pre made map by adding a header, text and a photo.
+
 Stuur de link naar deze repo naar de FabZero verantwoordelijke.
 
 source: `{{ page.path }}`
