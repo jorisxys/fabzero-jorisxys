@@ -1,7 +1,7 @@
 ---
 sort: 1
 ---
-#01 make and use git(hub)
+# 01make and use git(hub)
 
 **Hello**  
 
