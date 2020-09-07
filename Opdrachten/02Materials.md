@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# 02 Materials
+# 02 Materials and design
 
 information regarding week 2
 
