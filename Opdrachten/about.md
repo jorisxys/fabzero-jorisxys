@@ -12,8 +12,6 @@ I am Yang Sheng Joris. Currently in high school.
 
 ![Daytrip in France]({{ site.baseurl }}/assets/foto.jpg):
 
-<img src="foto.jpg"
-
 
 
 ## passions
