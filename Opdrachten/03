@@ -1,0 +1,119 @@
+--- 
+sort: 4
+---
+
+les o3 laser cutten:
+
+	handig voor 
+		architectuur: 
+			model bouw
+			landschappen
+		ontwerpen: 
+			MECHANICA, klok
+		kunst: 
+		textiel:
+			intricate paterns
+		design: 
+		
+DIY: via GRBL of merlin : firmware. 
+	GCODE	is manier om beweging naar coordinaten te vertalen arduino.
+	https://reprap.org/wiki/G-code
+
+optimaal: stuk plakband, stoffen met chloride, vinyl, pvc, plc, glasvezels etc...
+	
+slechte materialen: fake leer, reflecterende materialen, stoffen met chloride, vinyl, pvc, plc, glasvezels etc...
+		
+kerf = dikte van de laserstraal
+		
+		
+patronen dat het materiaal flexibel maakt
+
+file.dxf voor de bestand 2d proyect
+
+flatfab: wesp
+
+inkscape tutorial.
+		
+sources: fabzero, fabacademy, wintergarden marble machine == inspiratie, pinterest 
+belangrijk: om uit: kunst, ingenieur, ontwerper. 
+
+	intructables
+
+hubert@creatievestem.be
+
+
+les 04 3d printen en designen by Lenard
+
+fabricatie techniek additive manufactering
+
+geschiedenis 3d printen 
+	
+voordelen en limieten 
+	minde afval 
+	customisation
+	complexe vormen 
+	efficiént prototypen 
+	
+	snelheid en grote oplages
+	materiaalkost voor grote oplages 
+	materialen 
+	precisie niet alle printers 
+	
+the proces
+	digital drawing 
+		slicen 
+			printen 
+			
+	computer aided design 
+		ex tinker cad/blender/solidworks
+		
+
+fdm fused deposition modeling 
+	vooral kunststoffen: pet pla abs
+	metaal, keramisch/ beton/ blends 
+sla/dpla 
+	stereolitheografie/ selective laser sintering heeft geen problemen que complexiteit
+	
+sls sms
+
+toepassingen 
+	architectuur
+	medische sector
+	kunst 
+	mode 
+	
+	
+stl file : surface tesselation language 
+ 
+ 
+blender is heavy duty
+
+2/3 d scannen 
+
+
+support = bad 
+	tijd/geld meer 
+	meer kans op fouten 
+	minder goede afwerking
+	
+hoe verwijderen ? 
+	object roteren
+	snijden en individueel printen 
+	max 45 hoek tussen base en uitsteeksel
+	
+yht regel 
+	H overbruggen groter dan 36mm zal dropping vertonen 
+	T heeft geen support of is fout	gedaan = slechte print 
+	
+failed horizontal overhangs: kan bs haar zijn, maar is vaak nadeel. 
+	
+tips n tricks 3dprinten 
+	orientatie op je print 
+	bed adhesion 
+		raft/bbrim
+	laaghoogte (tijd)
+	vulling 
+	
+opdracht: pencil add on 
+	design inspiration ideas
+		
