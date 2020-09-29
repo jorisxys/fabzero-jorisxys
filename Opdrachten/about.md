@@ -23,7 +23,7 @@ I don't really have a passion. The closest things that someone could see as a pa
 I love to tinker and make stuf. I also value my freedom and I think that the skills and things that I will learn could help me achieve that.
  
 
-
+## a quote to live by
 
 
 {% include list.liquid all=true %}
