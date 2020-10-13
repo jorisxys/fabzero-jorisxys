@@ -1,5 +1,5 @@
 ---
-sort: 4
+sort: 5
 ---
 
 # 03 2d design and lasercutting
@@ -7,7 +7,6 @@ sort: 4
 **week3**  
 
 Week 3 was all about designing using Inkscape and cutting your own designs using a laser cutter. Here is what we learned !
-
 We first began with discussing and learning what a laser cutter could be used for. 
 
 handig voor
