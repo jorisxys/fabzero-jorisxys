@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 2
 ---
 
 # about 
@@ -24,6 +24,8 @@ I love to tinker and make stuf. I also value my freedom and I think that the ski
  
 
 ## a quote to live by
+
+
 
 
 {% include list.liquid all=true %}
