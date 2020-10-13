@@ -50,3 +50,4 @@ hubert@creatievestem./be
 
 # our task this week  
 {% include list.liquid all=true %}
+Opdrachten/03 2d design and lasercutting..md
