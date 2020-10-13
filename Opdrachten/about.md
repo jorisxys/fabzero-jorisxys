@@ -8,7 +8,7 @@ sort: 1
 
 I am Yang Sheng Joris. Currently in high school. 
 
-[github account](https://jorisxys.github.io/fabzero-jorisxys/)
+[github account](https://github.com/jorisxys)
 
 ![Daytrip in France]({{ site.baseurl }}/assets/foto.jpg):
 
