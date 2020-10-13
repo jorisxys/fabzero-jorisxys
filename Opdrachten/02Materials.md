@@ -5,7 +5,7 @@ sort: 3
 # 02 Materials and design
 
 information regarding week 2
-![second lesson]({{ site.baseurl }}/assets/les2.jpg):
+
 ## what did I learn ? 
 
 
