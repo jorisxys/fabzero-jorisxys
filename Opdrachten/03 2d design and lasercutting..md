@@ -49,4 +49,4 @@ hubert@creatievestem./be
 
 
 # our task this week  
-source: 
+{% include list.liquid all=true %}
