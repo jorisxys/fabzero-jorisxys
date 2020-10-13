@@ -1,5 +1,5 @@
 ---
-sort: 5
+sort: 4
 ---
 
 # 03 2d design and lasercutting
@@ -9,47 +9,44 @@ sort: 5
 Week 3 was all about designing using Inkscape and cutting your own designs using a laser cutter. Here is what we learned !
 We first began with discussing and learning what a laser cutter could be used for. 
 
-handig voor
-		architectuur: 
-			model bouw
-			landschappen
-		ontwerpen: 
-			MECHANICA, klok
-		kunst: 
-		textiel:
-			intricate paterns
-		design: 
-		
-DIY: via GRBL of merlin : firmware. 
-	GCODE	is manier om beweging naar coordinaten te vertalen arduino.
-	https://reprap.org/wiki/G-code
+***usefull for***
 
-optimaal: stuk plakband, stoffen met chloride, vinyl, pvc, plc, glasvezels etc...
-	
-slechte materialen: fake leer, reflecterende materialen, stoffen met chloride, vinyl, pvc, plc, glasvezels etc...
+* architectuur: 
+	* model bouw
+		* landschappen
+	* ontwerpen: 
+		* MECHANICA, klok
+	* kunst: 
+	* textiel:
+		* intricate paterns
+	* design: Flexibel properties through intricate designs 
 		
-kerf = dikte van de laserstraal
-		
-		
-patronen dat het materiaal flexibel maakt
+<dl> 
+	<dd> What is G-Code ? <dd>
+	<dt> A type of file that's able to tell machines to travel along a specified path. It is based on coordinates. <dt>
+<dl>
 
-file.dxf voor de bestand 2d proyect
+| yay      | nay         |
+|-----------|-----------------|
+| PVC   | Glas        |
+|| Vinyl     |
+|| Fake Leather       |
 
-flatfab: wesp
+***software***
 
-inkscape tutorial.
+* GRBL or MERLIN
+* FLATFAB
+* INKSCAPE	
 		
+kerf = thickness of the laser beam itself.
+
+***inspiration***			
 sources: fabzero, fabacademy, wintergarden marble machine == inspiratie, pinterest 
 belangrijk: om uit: kunst, ingenieur, ontwerper. 
 
-	intructables
-
-hubert@creatievestem.be
+hubert@creatievestem./be
 
 
 
-# our task this week 
-
-cut a figure make a box .
-
+# our task this week  
 source: `{{ page.path }}`
