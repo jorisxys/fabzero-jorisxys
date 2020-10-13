@@ -10,7 +10,7 @@ Week 3 was all about designing using Inkscape and cutting your own designs using
 
 We first began with discussing and learning what a laser cutter could be used for. 
 
-	handig voor 
+handig voor
 		architectuur: 
 			model bouw
 			landschappen
@@ -51,5 +51,6 @@ hubert@creatievestem.be
 
 # our task this week 
 
+cut a figure make a box .
 
 source: `{{ page.path }}`
